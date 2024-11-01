@@ -80,7 +80,7 @@ dependencies {
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/GreenLeaf-PlantShopUI.git
+   git clone https://github.com/Soumya-the-programmer/GreenLeaf-PlantShopUI.git
    ```
 2. **Open in Android Studio**:
 
